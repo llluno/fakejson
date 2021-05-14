@@ -33,8 +33,9 @@
         "email": "liuterrific@hotmail.com"
     },
     "data":{
-      "peopleSum":"1316903",
-      "peopleIsYueqinger":"",
-      "peopleIsNotYueqinger":""
+      "yueqingPeopleSum":"1316903",
+      "hadVaccineSum":"425289",
+      "peopleIsYueqinger":"217703",
+      "peopleIsNotYueqinger":"207586"
     }
   }
