@@ -39,6 +39,7 @@
       "peopleIsNotYueqinger":"207586",
       "isYueqingerVaccineSum":"282869",
       "isNotYueqingerVaccineSum":"261973",
-      "vaccineSum":"544842"
+      "vaccineSum":"544842",
+      "dict":["户籍人口数","已接种人数","本地户籍人口接种人数","外地人口接种人数","本地户籍人口接种剂次","外地人口接种剂次","接种剂次总数"]
     }
   }
