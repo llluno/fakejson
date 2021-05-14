@@ -34,8 +34,11 @@
     },
     "data":{
       "yueqingPeopleSum":"1316903",
-      "hadVaccineSum":"425289",
+      "peopleHadVaccineSum":"425289",
       "peopleIsYueqinger":"217703",
-      "peopleIsNotYueqinger":"207586"
+      "peopleIsNotYueqinger":"207586",
+      "isYueqingerVaccineSum":"282869",
+      "isNotYueqingerVaccineSum":"261973",
+      "vaccineSum":"544842"
     }
   }
