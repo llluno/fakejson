@@ -26,10 +26,6 @@
       }
     ],
     "profile":{
-        "telphone": "13057916678",
-        "website": "https://www.mtman.site",
-        "weibo": "https://weibo.com/2261202055",
-        "instagram": "https://www.instagram.com/_ununo/",
         "email": "liuterrific@hotmail.com"
     },
     "data":{
@@ -41,5 +37,14 @@
       "isNotYueqingerVaccineSum":"261973",
       "vaccineSum":"544842",
       "dict":[{"yueqingPeopleSum":"户籍人口数"},{"peopleHadVaccineSum":"已接种人数"},{"peopleIsYueqinger":"本地户籍人口接种人数"},{"peopleIsNotYueqinger":"外地人口接种人数"},{"isYueqingerVaccineSum":"本地户籍人口接种剂次"},{"isNotYueqingerVaccineSum":"外地人口接种剂次"},{"vaccineSum":"接种剂次总数"}]
+    },
+    "vaccineData":{
+      "permanentPopulationSum":"1467229",
+      "inoculatedSum":"425289",
+      "permanentPopulationInoculatedRate":"28.985",
+      "totalUsedVaccineSum":"544842",
+      "firstUsedVaccineSum":"",
+      "firstInoculatedSumDivide45percentPermanentPopulationSum":"",
+      "yesterdayUsedVaccineSum":""
     }
   }
