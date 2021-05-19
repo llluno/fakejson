@@ -12,11 +12,11 @@
     "vaccineData":{
       "permanentPopulationSum":"1467229",
       "inoculatedSum":"427562",
-      "permanentPopulationInoculatedRate":"29.140",
-      "totalUsedVaccineSum":"557324",
-      "firstUsedVaccineSum":"427562",
-      "firstInoculatedSumDivide45percentPermanentPopulationSum":"64.757",
-      "yesterdayUsedVaccineSum":"8120"
+      "permanentPopulationInoculatedRate":"29.360",
+      "totalUsedVaccineSum":"571460",
+      "firstUsedVaccineSum":"430794",
+      "firstInoculatedSumDivide45percentPermanentPopulationSum":"65.246",
+      "yesterdayUsedVaccineSum":"14136"
     },
     "vaccineTableData":[
         
