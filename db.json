@@ -15,6 +15,8 @@
       "permanentPopulationInoculatedRate":"29.590",
       "totalUsedVaccineSum":"592175",
       "firstUsedVaccineSum":"434190",
+      "secondUsedVaccineSum":"157985",
+      "over56daysNotInoculate":"2723",
       "firstInoculatedSumDivide45percentPermanentPopulationSum":"65.761",
       "yesterdayUsedVaccineSum":"20715"
     },
