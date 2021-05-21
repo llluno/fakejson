@@ -1,23 +1,13 @@
 {
-    "data":{
-      "yueqingPeopleSum":"1316903",
-      "peopleHadVaccineSum":"425289",
-      "peopleIsYueqinger":"217703",
-      "peopleIsNotYueqinger":"207586",
-      "isYueqingerVaccineSum":"282869",
-      "isNotYueqingerVaccineSum":"261973",
-      "vaccineSum":"544842",
-      "dict":[{"yueqingPeopleSum":"户籍人口数"},{"peopleHadVaccineSum":"已接种人数"},{"peopleIsYueqinger":"本地户籍人口接种人数"},{"peopleIsNotYueqinger":"外地人口接种人数"},{"isYueqingerVaccineSum":"本地户籍人口接种剂次"},{"isNotYueqingerVaccineSum":"外地人口接种剂次"},{"vaccineSum":"接种剂次总数"}]
-    },
     "vaccineData":{
       "常住人口总数":"1467229",
-      "首剂接种数":"434190",
-      "首剂接种率":"29.590",
+      "首剂接种数":"440661",
+      "首剂接种率":"30.03",
       "累计接种数":"592175",
-      "二剂次接种数":"157985",
-      "二剂次超56天未种人数":"2723",
-      "二剂次接种率":"10.76",
-      "昨日接种数":"20715"
+      "二剂次接种数":"167858",
+      "二剂次超56天未种人数":"3316",
+      "二剂次接种率":"11.44",
+      "昨日接种数":"16344"
     },
     "vaccineTableData":[
         
